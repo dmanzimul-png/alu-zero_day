@@ -1,2 +1,2 @@
-This repository is kept up to date using git pull .
+This repository is kept up to date using git pull.
 
