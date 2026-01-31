@@ -1,1 +1,2 @@
-alu zero day repository
+This repository is kept up to date using git pull.
+
